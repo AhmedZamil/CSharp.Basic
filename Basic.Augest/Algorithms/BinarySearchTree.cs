@@ -155,6 +155,7 @@ namespace Basic.Augest.Algorithms
         public void Insert(int d)
         {
             Node newNode = new Node();
+            newNode.traversed = false;
             newNode.data = d;
 
             if (root == null)
@@ -225,7 +226,10 @@ namespace Basic.Augest.Algorithms
                 {
                     Q.Enqueue(curNode.right);
                 }
-                Console.Write(curNode.data + " ");
+                curNode.traversed = true;
+                Console.Write("[");
+                Console.Write(curNode.data + ","+ curNode.traversed + " ");
+                Console.Write("]");
                 Q.Dequeue();
             }
         }
@@ -277,6 +281,7 @@ namespace Basic.Augest.Algorithms
         public int data;
         public Node left;
         public Node right;
+        public bool traversed;
     }
 
 }
