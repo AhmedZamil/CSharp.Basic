@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a3KXrXudL7UEbCCcwFqlQ80wJIXhS1nRYOmh8T5qv8TPWk/hgtNDIFZblJYSdRy38mIecaMaxbFmXJSp/ppm7w==",
+  "success": true,
+  "projectFilePath": "E:\\1.1WORKSHOP\\C# Problem Solving\\CSharp.Basic\\HackerRank.3.1\\HackerRank.3.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

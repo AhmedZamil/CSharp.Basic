@@ -1,0 +1,15 @@
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\bin\Debug\net6.0\Basic.Augest.exe
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\bin\Debug\net6.0\Basic.Augest.deps.json
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\bin\Debug\net6.0\Basic.Augest.runtimeconfig.json
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\bin\Debug\net6.0\Basic.Augest.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\bin\Debug\net6.0\Basic.Augest.pdb
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\obj\Debug\net6.0\Basic.Augest.csproj.AssemblyReference.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\obj\Debug\net6.0\Basic.Augest.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\obj\Debug\net6.0\Basic.Augest.AssemblyInfoInputs.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\obj\Debug\net6.0\Basic.Augest.AssemblyInfo.cs
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\obj\Debug\net6.0\Basic.Augest.csproj.CoreCompileInputs.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\obj\Debug\net6.0\Basic.Augest.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\obj\Debug\net6.0\refint\Basic.Augest.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\obj\Debug\net6.0\Basic.Augest.pdb
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\obj\Debug\net6.0\Basic.Augest.genruntimeconfig.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Augest\obj\Debug\net6.0\ref\Basic.Augest.dll

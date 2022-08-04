@@ -1,0 +1,17 @@
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\bin\Debug\net6.0\Basic.Problems.exe
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\bin\Debug\net6.0\Basic.Problems.deps.json
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\bin\Debug\net6.0\Basic.Problems.runtimeconfig.json
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\bin\Debug\net6.0\Basic.Problems.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\bin\Debug\net6.0\Basic.Problems.pdb
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\obj\Debug\net6.0\Basic.Problems.csproj.AssemblyReference.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\obj\Debug\net6.0\Basic.Problems.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\obj\Debug\net6.0\Basic.Problems.AssemblyInfoInputs.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\obj\Debug\net6.0\Basic.Problems.AssemblyInfo.cs
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\obj\Debug\net6.0\Basic.Problems.csproj.CoreCompileInputs.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\obj\Debug\net6.0\Basic.Problems.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\obj\Debug\net6.0\refint\Basic.Problems.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\obj\Debug\net6.0\Basic.Problems.pdb
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\obj\Debug\net6.0\Basic.Problems.genruntimeconfig.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\obj\Debug\net6.0\ref\Basic.Problems.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\bin\Debug\net6.0\nunit.framework.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\Basic.Problems\obj\Debug\net6.0\Basic.Problems.csproj.CopyComplete

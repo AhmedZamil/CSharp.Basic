@@ -1,0 +1,15 @@
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\bin\Debug\net6.0\Basic.exe
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\bin\Debug\net6.0\Basic.deps.json
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\bin\Debug\net6.0\Basic.runtimeconfig.json
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\bin\Debug\net6.0\Basic.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\bin\Debug\net6.0\Basic.pdb
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\obj\Debug\net6.0\Basic.csproj.AssemblyReference.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\obj\Debug\net6.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\obj\Debug\net6.0\Basic.AssemblyInfoInputs.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\obj\Debug\net6.0\Basic.AssemblyInfo.cs
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\obj\Debug\net6.0\Basic.csproj.CoreCompileInputs.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\obj\Debug\net6.0\Basic.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\obj\Debug\net6.0\refint\Basic.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\obj\Debug\net6.0\Basic.pdb
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\obj\Debug\net6.0\Basic.genruntimeconfig.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\ConsoleApp1\obj\Debug\net6.0\ref\Basic.dll

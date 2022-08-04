@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n59cIr6UzPe+dtZpEdtjj0QH80iNm4kBqrpKCvDz6zwHopJRWd903L4Mj8w1oCSwiRL02FfkIZ/PmUCSnz7VPQ==",
+  "success": true,
+  "projectFilePath": "E:\\1.1WORKSHOP\\C# Problem Solving\\CSharp.Basic\\Basic.Problems\\Basic.Problems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

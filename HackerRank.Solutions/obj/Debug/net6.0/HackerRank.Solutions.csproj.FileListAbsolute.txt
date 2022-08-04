@@ -1,0 +1,15 @@
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\bin\Debug\net6.0\HackerRank.Solutions.exe
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\bin\Debug\net6.0\HackerRank.Solutions.deps.json
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\bin\Debug\net6.0\HackerRank.Solutions.runtimeconfig.json
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\bin\Debug\net6.0\HackerRank.Solutions.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\bin\Debug\net6.0\HackerRank.Solutions.pdb
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\obj\Debug\net6.0\HackerRank.Solutions.csproj.AssemblyReference.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\obj\Debug\net6.0\HackerRank.Solutions.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\obj\Debug\net6.0\HackerRank.Solutions.AssemblyInfoInputs.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\obj\Debug\net6.0\HackerRank.Solutions.AssemblyInfo.cs
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\obj\Debug\net6.0\HackerRank.Solutions.csproj.CoreCompileInputs.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\obj\Debug\net6.0\HackerRank.Solutions.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\obj\Debug\net6.0\refint\HackerRank.Solutions.dll
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\obj\Debug\net6.0\HackerRank.Solutions.pdb
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\obj\Debug\net6.0\HackerRank.Solutions.genruntimeconfig.cache
+E:\1.1WORKSHOP\C# Problem Solving\CSharp.Basic\HackerRank.Solutions\obj\Debug\net6.0\ref\HackerRank.Solutions.dll
