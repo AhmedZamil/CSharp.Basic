@@ -12,6 +12,8 @@ using Basic.Augest.Tree;
 using Basic.Augest.Turing;
 using Basic.Augest.Turing.Arrays;
 using Basic.Augest.Turing.GraphProblem;
+using Basic.Augest.Turing.Recursion;
+using Basic.Augest.Turing.SAMPLE;
 using System.Numerics;
 using static Basic.Augest.Algorithms.Tree;
 
@@ -226,7 +228,27 @@ using static Basic.Augest.Algorithms.Tree;
 //prob.Main();
 
 
-Shortest_Path_Implementation prob = new Shortest_Path_Implementation();
+//Shortest_Path_Implementation prob = new Shortest_Path_Implementation();
+//prob.Main();
+
+//Find_The_Judge prob = new Find_The_Judge();
+//prob.Main();
+
+
+//Winning_Card prob = new Winning_Card();
+
+//prob.Main();
+
+//ReverseOnlyLetters prob = new ReverseOnlyLetters();
+
+//prob.Main();
+
+//Max_Depth_Binary_Tree prob = new Max_Depth_Binary_Tree();
+
+//prob.Main();
+
+NumSeries prob = new NumSeries();
+
 prob.Main();
 
 

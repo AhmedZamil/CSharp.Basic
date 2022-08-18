@@ -1,0 +1,25 @@
+﻿In a town there are N people labelled from  to N.
+
+There is a rumor that one of those pepople is secretly the town Judge.
+
+
+if the town judge exists
+* The town Judge trusts no body
+* Everybody (excepts the town judge) trusts the town judge
+* there is exactly one person that satisfy property 1 and 2.
+
+
+You are given trust, an array of pairs trust[i]=[a,b] representing that  the person labelled a trusts the person labelled b.
+
+if the town judge exists and can't be identified return the labelled of the town judge.Otherwise return -1.
+
+Example : 1
+input N=2, trust[[1,2]]
+output : 2
+
+Example 2
+input N=3, trust = [[1,3],[2,3]] //  3
+								 // 1 3, 2 3
+Example 3
+input N=3, trust =[[1,3],[2,3],[3,1]]
+output : -1
